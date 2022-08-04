@@ -1,4 +1,3 @@
-package solution;
 
 public class Greeting {
 
